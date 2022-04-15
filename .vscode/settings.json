@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net5.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/5a05bda0-a672-44d8-a357-d7c076749e81/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/EnscMovie"
+}
